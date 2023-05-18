@@ -1,4 +1,4 @@
-# YOLO Streamlit Dashbord
+# YOLO Streamlit Dashboard
 Display predicted Video, Images and webcam using YOLO models (**YOLOv7**) with Streamlit
 
 ## Streamlit Options
