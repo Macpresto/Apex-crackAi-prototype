@@ -21,8 +21,7 @@ model_type = st.sidebar.selectbox(
 )
 
 st.title(f'{model_type} Predictions')
-sample_img = cv2.imread('logo.jpg')
-FRAME_WINDOW = st.image(sample_img, channels='BGR')
+
 cap = None
 
 if not model_type == 'YOLO Model':
